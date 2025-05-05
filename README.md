@@ -1,4 +1,7 @@
-#　SQL-learning
+# SQL-learning
+
+SQLの理解を深めるための学習用リポジトリ
+基本的にはMySQLを用いて進める（PostgreSQLに興味はあるが、MySQLと操作感が思ったよりも異なる＋MySQLのプロジェクトしか関わらないため、MySQLを主に採用）
 
 ## 使用した書籍や資料
 
